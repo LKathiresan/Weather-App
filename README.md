@@ -1,5 +1,3 @@
-# Weather-App
-
 # Weather App 🌤️
 
 A simple weather app that displays current weather data for any city using a clean and user-friendly interface.
